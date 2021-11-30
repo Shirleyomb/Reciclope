@@ -1,0 +1,77 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: rgb(239, 234, 241);
+    background-size: 70%;
+    overflow: hidden;
+    min-height: 100vh;
+}
+
+
+h1 {
+
+    background: linear-gradient(94.69deg, #f0eab2 4.87%, rgba(164, 135, 32, 0.81) 30.62%, #fffdd5 83.29%, #fafbfd 125.32%, rgba(255, 255, 255, 0) 139.33%);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    text-align: center;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin: 20px;
+    padding: 5px;
+}
+
+h3 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
+.box {
+    margin: 70px;
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%);
+}
+
+.box h4 {
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin-top: 30px;
+    
+}
+
+.inputInicial {
+    background: rgb(92, 92, 190);
+    color: white;
+}
+
+.inputFinal {
+    background: rgb(92, 92, 190);
+    color: white;
+}
+
+.organico {
+    color: #461702;
+}
+
+.papel {
+    color: blue
+}
+
+.vidro {
+    color: green;
+}
+
+.metal {
+    color: red;
+}
+
+.todos {
+    color:darkmagenta;
+}
